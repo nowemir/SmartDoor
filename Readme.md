@@ -3,7 +3,7 @@
 # Smart Door to Contribute to Limiting The Spread of the Corona Virus
 
 
-This is  a smart door project to limit of spreade COVID_19 using Python language
+This is a smart door project to limit the spread of Covid-19 using a python language.
 
 
 ## Downloud code 
