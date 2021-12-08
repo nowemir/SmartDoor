@@ -3,15 +3,15 @@
 # Smart Door to Contribute to Limiting The Spread of the Corona Virus
 
 
-This is  a smart door project to limit of spreade COVID_19 using python language
+This is  a smart door project to limit of spreade COVID_19 using Python language
 
 
 ## Downloud code 
- - Download from GitHub https://github.com/MAMAlghannam/Tshjeer.git
+ - Download from GitHub https://github.com/nowemir/SmartDoor
 
 ## Install dependencies 
 
-- First you have to install python from https://www.python.org/downloads
+- First you have to install Python from https://www.python.org/downloads
   
 - To RUN facemask detection code You'll need to
   
